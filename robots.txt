@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://best-hapjeong-pub.xyz/sitemap.xml
 Sitemap: https://best-hapjeong-pub.xyz/sitemap-index.xml
